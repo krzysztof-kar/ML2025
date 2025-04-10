@@ -7,3 +7,5 @@ Praca domowa 2: https://github.com/krzysztof-kar/ML2025/blob/main/Lab02_clusteri
 Praca domowa 3: https://github.com/krzysztof-kar/ML2025/blob/main/Lab03_regression_prdom.ipynb
 
 Praca domowa 4: https://github.com/krzysztof-kar/ML2025/blob/main/Lab04_penalized-regression_prdom.ipynb
+
+Praca domowa 5: https://github.com/krzysztof-kar/ML2025/blob/main/Lab05_kernel-methods_prdom.ipynb
